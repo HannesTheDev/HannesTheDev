@@ -1,6 +1,6 @@
 [![HannesTheDev's github stats](https://github-readme-stats.vercel.app/api?username=hannesthedev)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/hannesthedev?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![HannesTheDev's GitHub stats](https://github-readme-stats.vercel.app/api/?username=hannesthedev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannesthedev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
