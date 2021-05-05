@@ -1,6 +1,6 @@
 [![HannesTheDev's github stats](https://github-readme-stats.vercel.app/api?username=hannesthedev)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannesthedev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannesthedev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # DE
 Hey, ich bin ein deutscher Programmierer und beherrsche die Sprachen PHP und Python.  
